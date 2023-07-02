@@ -1,9 +1,10 @@
 import "./App.css";
+import IncrementDecrement from "./pages/IncrementDecrement";
 
 function App() {
   return (
     <>
-      <p>React tutorail project structure</p>
+      <IncrementDecrement />
     </>
   );
 }
