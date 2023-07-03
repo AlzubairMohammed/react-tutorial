@@ -1,0 +1,14 @@
+.btn-style {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.btn-increment {
+  color: white;
+  background-color: green;
+}
+
+.btn-decrement {
+  color: white;
+  background-color: red;
+}
